@@ -1,6 +1,8 @@
 # Lowell Monis
 
+<!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowell-monis&show_icons=true&theme=great-gatsby&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+--->
 
 <!---
 lowell-monis/lowell-monis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
