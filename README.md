@@ -1,7 +1,7 @@
 # Lowell Monis
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lowell-monis&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=lowell-monis&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowell-monis&hide_progress=true)
 
