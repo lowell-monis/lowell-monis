@@ -1,7 +1,16 @@
-# Welcome!
+<h1 align="center">Welcome</h1>
 
-My name is Lowell Monis. I am a data science and politics junior at Michigan State University. I specialize in data analytics, visualization, and modeling. In political science, I study international and comparative politics, and my research focuses on methods/quantitative data analytics, and survey research.
+<h3 align="center">I'm Lowell Monis</h1>
 
+- Data Science and World Politics junior at Michigan State University
+- Data Analyst
+- Survey Researcher
+- Public Policy Fellow
+- Computational Researcher in Liver Lobule Modeling
+- Mathematical Machine Learning Researcher
+- International and Comparative politics
+
+  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lowell-monis&theme=dark)
 
 ## What I work with
