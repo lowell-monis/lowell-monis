@@ -1,8 +1,8 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">Welcome!</h1>
 
-<h3 align="center">I'm Lowell Monis</h1>
+<h3 align="center">I'm Lowell Monis</h3>
+<h3 align="center">Data Science and World Politics Junior at Michigan State University</h3>h3>
 
-- Data Science and World Politics junior at Michigan State University
 - Data Analyst
 - Survey Researcher
 - Public Policy Fellow
