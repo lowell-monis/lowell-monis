@@ -14,7 +14,7 @@
 
 ## What I work with
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowell-monis&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowell-monis&hide_progress=true&theme=dark)
 
 <!---
 lowell-monis/lowell-monis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
