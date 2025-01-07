@@ -2,6 +2,8 @@
 
 <h3 align="center">Data Science and World Politics Junior at Michigan State University</h3>
 
+Paper releasing soon about Exit Poll 2024 (Interplay of pop culture in electoral politics)
+
 - Data Analyst
 - Survey Researcher
 - Public Policy Fellow
