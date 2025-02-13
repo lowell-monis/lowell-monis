@@ -1,25 +1,18 @@
 <h1 align="center">Welcome! I'm Lowell Monis.</h1>
 
-<h3 align="center">Data Science and World Politics Junior at Michigan State University</h3>
-
-Paper releasing soon about Exit Poll 2024 (Interplay of pop culture in electoral politics)
-
-- Data Analyst
-- Survey Researcher
-- Public Policy Fellow
-- Computational Researcher in Liver Lobule Modeling
-- Mathematical Machine Learning Researcher
-- International and Comparative politics
-
-## What I work with
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowell-monis&hide_progress=true&theme=dark)
-
-
 # 💫 About Me:
-I am currently working on FarmX neo<br>I am currently learning React.js
+I'm a Data Science and World Politics double major at Michigan State University, passionate about leveraging data to drive social impact. Currently diving deep into the intersection of technology and sustainable agriculture with FarmX neo, an ML platform revolutionizing crop management! 🌱
 
+🔬 **What I'm Up To:**
+- 📊 Data Analyst & Public Policy Fellow at MSU's Institute for Public Policy and Social Research
+- 🖥️ Logistics Lead at [SpartaHack X](https://www.spartahack.com/)
+- 🌿 Leading **FarmX neo** - where machine learning meets sustainable agriculture
+- 🧬 Computational Research in Liver Lobule Modeling
+- 🤖 Mathematical Machine Learning Research in Spatial Transcriptomics
 
+💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether it's analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
+
+Let's connect and build something amazing together! 🤝
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lowell.monis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lowell-monis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monislow@msu.edu) 
 
@@ -33,7 +26,6 @@ I am currently working on FarmX neo<br>I am currently learning React.js
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lowell-monis&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
