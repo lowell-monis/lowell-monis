@@ -8,7 +8,7 @@ I'm a Data Science and World Politics double major at Michigan State University,
 - 🖥️ Logistics Lead at [SpartaHack X](https://www.spartahack.com/)
 - 🌿 Leading **FarmX neo** - where machine learning meets sustainable agriculture
 - 🧬 Computational Research in Liver Lobule Modeling
-- 🤖 Mathematical Machine Learning Research in Spatial Transcriptomics
+- 🤖 Machine Learning Research in Spatial Transcriptomics
 
 💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether it's analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
 
