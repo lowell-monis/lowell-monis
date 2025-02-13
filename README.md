@@ -24,7 +24,7 @@ Let's connect and build something amazing together! 🤝
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lowell-monis&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide_progress=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lowell-monis&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=lowell-monis&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
