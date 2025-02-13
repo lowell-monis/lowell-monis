@@ -11,9 +11,6 @@ Paper releasing soon about Exit Poll 2024 (Interplay of pop culture in electoral
 - Mathematical Machine Learning Researcher
 - International and Comparative politics
 
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=lowell-monis&theme=dark)
-
 ## What I work with
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lowell-monis&hide_progress=true&theme=dark)
