@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! I'm Lowell Monis.</h1>
 
 # 💫 About Me:
-I'm a Data Science and World Politics double major at Michigan State University, passionate about leveraging data to drive social impact. Currently diving deep into the intersection of technology and sustainable agriculture with FarmX neo, an ML platform revolutionizing crop management! 🌱
+I'm a double major in data science and world politics at Michigan State University, and I'm passionate about leveraging data to drive social impact. I am currently learning various data visualization techniques and the theoretical concepts of machine learning, while working on a project to explore computer vision via a facial-expression-to-emoji conversion model. I am also diving deep into the intersection of technology and sustainable agriculture with FarmX neo, an ML platform revolutionizing crop management! 🌱
 
 🔬 **What I'm Up To:**
 - 📊 Data Analyst & Public Policy Fellow at MSU's Institute for Public Policy and Social Research
@@ -10,7 +10,7 @@ I'm a Data Science and World Politics double major at Michigan State University,
 - 🧬 Computational Research in Liver Lobule Modeling
 - 🤖 Machine Learning Research in Spatial Transcriptomics
 
-💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether it's analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
+💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
 
 Let's connect and build something amazing together! 🤝
 ## 🌐 Socials:
