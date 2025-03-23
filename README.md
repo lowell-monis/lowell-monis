@@ -5,10 +5,10 @@ I'm a double major in data science and world politics at Michigan State Universi
 
 🔬 **What I'm Up To:**
 - 📊 Data Analyst & Public Policy Fellow at MSU's Institute for Public Policy and Social Research
+- 📝 Teaching Assistant for the [Introduction to Data Science Course](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=STT&CourseNumber=180#Results) at MSU [CMSE](https://cmse.msu.edu/)+[STT](https://stt.natsci.msu.edu/)
 - 🖥️ Logistics Lead at [SpartaHack X](https://www.spartahack.com/) and Co-Director at SpartaHack 11
-- 🌿 Leading **FarmX neo** - where machine learning meets sustainable agriculture
-- 🧬 Computational Research in Liver Lobule Modeling
-- 🤖 Machine Learning Research in Spatial Transcriptomics
+- 🌿 Developing **FarmX neo** - where machine learning meets sustainable agriculture
+- 🧬 Machine Learning Research in Spatial Transcriptomics
 
 💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
 
