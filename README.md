@@ -5,7 +5,7 @@ I'm a double major in data science and world politics at Michigan State Universi
 
 🔬 **What I'm Up To:**
 - 📊 Data Analyst & Public Policy Fellow at MSU's Institute for Public Policy and Social Research
-- 🖥️ Logistics Lead at [SpartaHack X](https://www.spartahack.com/)
+- 🖥️ Logistics Lead at [SpartaHack X](https://www.spartahack.com/) and Co-Director at SpartaHack 11
 - 🌿 Leading **FarmX neo** - where machine learning meets sustainable agriculture
 - 🧬 Computational Research in Liver Lobule Modeling
 - 🤖 Machine Learning Research in Spatial Transcriptomics
