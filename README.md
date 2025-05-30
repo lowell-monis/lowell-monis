@@ -4,11 +4,11 @@
 I'm a double major in data science and world politics at Michigan State University, and I'm passionate about leveraging data to drive social impact. I am currently learning various data visualization techniques and the theoretical concepts of machine learning while working on a project to explore computer vision via a facial-expression-to-emoji conversion model. I am also diving deep into the intersection of technology and sustainable agriculture with FarmX neo, an ML platform revolutionizing crop management! 🌱
 
 🔬 **What I'm Up To:**
-- 📊 Data Analyst & Public Policy Fellow at MSU's Institute for Public Policy and Social Research
+- 📊 Data Science Intern at [Delta Dental of Michigan](https://www.deltadentalmi.com/)
+- 📜 Data Analyst & Public Policy Fellow at MSU's [Institute for Public Policy and Social Research](https://ippsr.msu.edu/)
 - 📝 Teaching Assistant for the [Introduction to Data Science Course](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=STT&CourseNumber=180#Results) at MSU [CMSE](https://cmse.msu.edu/)+[STT](https://stt.natsci.msu.edu/)
 - 🖥️ Logistics Lead at [SpartaHack X](https://www.spartahack.com/) and Co-Director at SpartaHack 11
 - 🌿 Developing **FarmX neo** - where machine learning meets sustainable agriculture
-- 🧬 Machine Learning Research in Spatial Transcriptomics
 
 💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
 
