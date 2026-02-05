@@ -1,13 +1,20 @@
-<h1 align="center">Welcome! I'm Lowell Monis.</h1>
+<h1 align="center">Welcome!</h1>
 
-# 💫 About Me:
-I'm a double major in data science and world politics at Michigan State University, and I'm passionate about leveraging data to drive social impact. I am currently learning various data visualization techniques and the theoretical concepts of machine learning while working on a project to explore computer vision via a facial-expression-to-emoji conversion model. I am also diving deep into the intersection of technology and sustainable agriculture with FarmX neo, an ML platform revolutionizing crop management! 🌱
+# About Me:
+I'm Lowell. I am an undergraduate studying data science, math, statistics, and politics at Michigan State University, and I'm passionate about leveraging data to drive social impact. I am currently learning various modern tools in data science and deployment, optimization methods, data mining, big data analysis, and advanced concepts in pattern recognition and analysis. I am proficient in data storytelling, visualization, machine learning, and Bayesian modeling.
 
-🔬 **What I'm Up To:**
+<!-- I am also diving deep into the intersection of technology and sustainable agriculture with FarmX neo, an ML platform revolutionizing crop management! 🌱-->
+
+🔬 **What I'm up to right now:**
+- 🖥️ Co-Director of [SpartaHack 11](https://www.spartahack.com/) and SpartaHack 12
+- 📝 Teaching Assistant for the [MSU Department of Mathematics](https://math.msu.edu/): [Quantitative Literacy](https://reg.msu.edu/Courses/Search.aspx?SubjectCode=mth&Term=current&CourseNumber=101#Results) and [College Algebra](https://reg.msu.edu/Courses/Search.aspx?SubjectCode=mth&Term=current&CourseNumber=103#Results)
+- 👨‍💼 Supervisor at the [Math Learning Center](https://math.msu.edu/MLC/index.aspx)
+- 🔬 Undergraduate Research in Epidemiology at [JimLab](https://epibio.msu.edu/research/jimlab/index.html)
+<!-- - 🌿 Developing **FarmX neo** - where machine learning meets sustainable agriculture -->
+
+⌛ **What I was up to before:**
 - 📊 Data Science Intern at [Delta Dental of Michigan](https://www.deltadentalmi.com/)
 - 📝 Teaching Assistant for the [Introduction to Data Science Course](https://reg.msu.edu/Courses/Request.aspx?SubjectCode=STT&CourseNumber=180#Results) at MSU [CMSE](https://cmse.msu.edu/)+[STT](https://stt.natsci.msu.edu/)
-- 🖥️ Co-Director of [SpartaHack 11](https://www.spartahack.com/)
-<!-- - 🌿 Developing **FarmX neo** - where machine learning meets sustainable agriculture -->
 
 💡 I believe in the power of data to transform policy-making and create meaningful social change. Whether analyzing legislative patterns, conducting voter behavior studies, or developing ML solutions for sustainable agriculture, I'm always excited to tackle challenges at the intersection of technology and society!
 
