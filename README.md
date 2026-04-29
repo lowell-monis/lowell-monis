@@ -23,9 +23,9 @@ I'm an undergraduate data science student at Michigan State University, passiona
 
 | Project | Description | Stack |
 |---|---|---|
-| [NYC 311 Service Request Analysis](https://github.com/lowell-monis/aws-nyc311-monislow) | AWS S3 + Athena pipeline + SageMaker AI to identify borough-level resolution inequities and classify fast vs. slow 311 complaints at intake | AWS, SQL, Python, scikit-learn |
-| [TikTok Integrity & Influence](https://github.com/lowell-monis/tiktok-dashboard) | Interactive Dash dashboard analyzing mis/disinformation patterns across 19k+ TikTok videos · [Live](https://lowell-monis-tiktok-dashboard.share.connect.posit.cloud/) | Python, Plotly Dash, pandas |
-| [The Dynamics Behind Exchange Rates](https://github.com/lowell-monis/dynamics-behind-exchange-rates) | SARIMA forecasting of EUR/USD rates across 25 years of ECB data; predicted April 2024 rate within 0.7% | pandas, statsmodels, Plotly |
+| [NYC 311 Service Request Analysis](https://github.com/lowell-monis/aws-nyc311-monislow) | AWS S3 + Athena pipeline + SageMaker AI to identify borough-level resolution inequities and classify fast vs. slow 311 complaints at intake | AWS, SQL, Python, `scikit-learn` |
+| [TikTok Integrity & Influence](https://github.com/lowell-monis/tiktok-dashboard) | Interactive Dash dashboard analyzing mis/disinformation patterns across 19k+ TikTok videos · [Live](https://lowell-monis-tiktok-dashboard.share.connect.posit.cloud/) | Python, Plotly Dash, `pandas` |
+| [The Dynamics Behind Exchange Rates](https://github.com/lowell-monis/dynamics-behind-exchange-rates) | SARIMA forecasting of EUR/USD rates across 25 years of ECB data; predicted April 2024 rate within 0.7% | Python, `pandas`, `statsmodels`, `plotly`, `pmdarima` |
 
 ---
 
