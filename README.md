@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lowell.</h1>
 
 <p align="center">
-  Data Engineer &middot; Data Scientist &middot; Policy Researcher &middot; Michigan State University
+  Data Engineer &middot; Data Scientist &middot; Policy Researcher
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ---
 
-I'm an undergraduate data scientist and engineer at Michigan State University, passionate about leveraging statistical learning and machine learning to address public policy and public health challenges. My work spans ETL pipeline engineering, Bayesian modeling, and interactive data visualization — from Medicaid claims data at Delta Dental to epidemiological research at MSU's JimLab. I believe that storytelling is the most important part of the data lifecycle, and I'm committed to making my work accessible and actionable for all audiences.
+I'm an undergraduate data science student at Michigan State University, passionate about leveraging statistical learning and machine learning to address public policy and public health challenges. My work aims to build end-to-end data solutions to address business problems while maximizing social impact. I believe that storytelling is the most important part of the data lifecycle, and I'm committed to making my work accessible, interactive, and actionable for all audiences.
 
-**Currently open to 2027 new graduate roles in data science, data engineering, and machine learning.** See my full portfolio at [lowell-monis.github.io](https://lowell-monis.github.io/).
+**Currently open to 2027 new graduate roles in data science, data engineering, and machine learning.** See my full portfolio at [lowell-monis.github.io](https://lowell-monis.github.io/#contact).
 
 ---
 
@@ -23,7 +23,7 @@ I'm an undergraduate data scientist and engineer at Michigan State University, p
 
 | Project | Description | Stack |
 |---|---|---|
-| [NYC 311 Service Request Analysis](https://github.com/lowell-monis/aws-nyc311-monislow) | AWS S3 + Athena pipeline to identify borough-level resolution inequities and classify fast vs. slow 311 complaints at intake | AWS, SQL, Python, scikit-learn |
+| [NYC 311 Service Request Analysis](https://github.com/lowell-monis/aws-nyc311-monislow) | AWS S3 + Athena pipeline + SageMaker AI to identify borough-level resolution inequities and classify fast vs. slow 311 complaints at intake | AWS, SQL, Python, scikit-learn |
 | [TikTok Integrity & Influence](https://github.com/lowell-monis/tiktok-dashboard) | Interactive Dash dashboard analyzing mis/disinformation patterns across 19k+ TikTok videos · [Live](https://lowell-monis-tiktok-dashboard.share.connect.posit.cloud/) | Python, Plotly Dash, pandas |
 | [The Dynamics Behind Exchange Rates](https://github.com/lowell-monis/dynamics-behind-exchange-rates) | SARIMA forecasting of EUR/USD rates across 25 years of ECB data; predicted April 2024 rate within 0.7% | pandas, statsmodels, Plotly |
 
@@ -32,12 +32,12 @@ I'm an undergraduate data scientist and engineer at Michigan State University, p
 ### What I am (and have been) up to
 
 - 🚗 Incoming Data Engineering Intern at **Tesla, Inc.** (Passive Safety Team · Fremont Crash Lab · May 2026)
-- 🔬 Researcher at [JimLab](https://epibio.msu.edu/research/jimlab/index.html) — Bayesian hierarchical models for drug use epidemiology
-- 🖥️ Co-Director of [SpartaHack](https://www.spartahack.com/) — MSU's annual hackathon, one of Michigan's largest
+- 🔬 Researcher at [JimLab](https://epibio.msu.edu/research/jimlab/index.html) &mdash; Bayesian hierarchical models for drug use epidemiology
+- 🖥️ Co-Director of [SpartaHack](https://www.spartahack.com/) &mdash; MSU's annual hackathon, one of Michigan's largest
 - 👨‍🏫 Supervisor at the [Mathematics Learning Center](https://math.msu.edu/MLC/index.aspx) and Learning Assistant across multiple departments
-- 📊 Prev. Data Science Intern at [Delta Dental of Michigan](https://www.deltadentalmi.com/) — ETL pipelines, MCMC analysis, XGBoost/LightGBM churn models
-- 🏛️ Undergraduate Research Ambassador — promoting research opportunities at MSU
-- 🏠 Resident Assistant — Residential & Hospitality Services, MSU
+- 📊 Prev. Data Science Intern at [Delta Dental of Michigan](https://www.deltadentalmi.com/) &mdash; ETL pipelines, MCMC analysis, XGBoost/LightGBM churn models
+- 🏛️ Undergraduate Research Ambassador &mdash; promoting research opportunities at MSU
+- 🏠 Resident Assistant &mdash; Residential & Hospitality Services, MSU
 
 ---
 
@@ -79,31 +79,3 @@ I'm an undergraduate data scientist and engineer at Michigan State University, p
 
 [![](https://visitcount.itsvg.in/api?id=lowell-monis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!--
-==========================================================
-GITHUB PROFILE SETTINGS (set these in Edit Profile, not in this README)
-==========================================================
-
-Profile picture:
-  Use your professional headshot (same as portfolio).
-
-Bio (160 char limit — appears under your name on your profile):
-  Data Engineer · Data Scientist · Policy Researcher · MSU · Incoming @Tesla
-
-Location:
-  East Lansing, MI
-
-Website:
-  https://lowell-monis.github.io/
-
-Social accounts (set via Edit Profile > Social accounts):
-  LinkedIn: https://linkedin.com/in/lowell-monis
-
-Pinned repositories (Customize your pins — pin up to 6):
-  1. aws-nyc311-monislow      (AWS · SQL · ML classifier)
-  2. tiktok-dashboard         (Plotly Dash · deployed · live link)
-  3. dynamics-behind-exchange-rates  (SARIMA · time series)
-  [Add more as new projects are published]
-
-==========================================================
--->
