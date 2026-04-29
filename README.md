@@ -29,16 +29,13 @@ I'm an undergraduate data scientist and engineer at Michigan State University, p
 
 ---
 
-### What I'm up to
+### What I am (and have been) up to
 
 - 🚗 Incoming Data Engineering Intern at **Tesla, Inc.** (Passive Safety Team · Fremont Crash Lab · May 2026)
 - 🔬 Researcher at [JimLab](https://epibio.msu.edu/research/jimlab/index.html) — Bayesian hierarchical models for drug use epidemiology
 - 🖥️ Co-Director of [SpartaHack](https://www.spartahack.com/) — MSU's annual hackathon, one of Michigan's largest
 - 👨‍🏫 Supervisor at the [Mathematics Learning Center](https://math.msu.edu/MLC/index.aspx) and Learning Assistant across multiple departments
-
-### What I've done
-
-- 📊 Data Science Intern at [Delta Dental of Michigan](https://www.deltadentalmi.com/) — ETL pipelines, MCMC analysis, XGBoost/LightGBM churn models
+- 📊 Prev. Data Science Intern at [Delta Dental of Michigan](https://www.deltadentalmi.com/) — ETL pipelines, MCMC analysis, XGBoost/LightGBM churn models
 - 🏛️ Undergraduate Research Ambassador — promoting research opportunities at MSU
 - 🏠 Resident Assistant — Residential & Hospitality Services, MSU
 
